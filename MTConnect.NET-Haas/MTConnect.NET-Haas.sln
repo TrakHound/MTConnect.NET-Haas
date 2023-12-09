@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTConnect.NET-Haas", "MTCon
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MTConnect.NET-Common", "..\..\MTConnect.NET\libraries\MTConnect.NET-Common\MTConnect.NET-Common.csproj", "{1849BB58-6337-4930-9F11-0D011D863FD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp35", "C:\temp\ConsoleApp35\ConsoleApp35.csproj", "{239A4ED6-2D95-4F35-B122-846993534A30}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTConnect.NET-AgentModule-HaasEthernet", "..\MTConnect.NET-AgentModule-HaasEthernet\MTConnect.NET-AgentModule-HaasEthernet.csproj", "{4D73079A-714A-4C14-8465-DAF0F5293844}"
 EndProject
 Global
@@ -30,12 +28,6 @@ Global
 		{1849BB58-6337-4930-9F11-0D011D863FD9}.Package|Any CPU.Build.0 = Package|Any CPU
 		{1849BB58-6337-4930-9F11-0D011D863FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1849BB58-6337-4930-9F11-0D011D863FD9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{239A4ED6-2D95-4F35-B122-846993534A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{239A4ED6-2D95-4F35-B122-846993534A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{239A4ED6-2D95-4F35-B122-846993534A30}.Package|Any CPU.ActiveCfg = Debug|Any CPU
-		{239A4ED6-2D95-4F35-B122-846993534A30}.Package|Any CPU.Build.0 = Debug|Any CPU
-		{239A4ED6-2D95-4F35-B122-846993534A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{239A4ED6-2D95-4F35-B122-846993534A30}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4D73079A-714A-4C14-8465-DAF0F5293844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4D73079A-714A-4C14-8465-DAF0F5293844}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D73079A-714A-4C14-8465-DAF0F5293844}.Package|Any CPU.ActiveCfg = Debug|Any CPU
