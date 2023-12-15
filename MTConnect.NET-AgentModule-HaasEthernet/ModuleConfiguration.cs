@@ -7,6 +7,9 @@ namespace MTConnect.Configurations
 {
     public class ModuleConfiguration : HaasEthernetConfiguration
     {
+        public string DeviceKey { get; set; }
+
+
         public ModuleConfiguration()
         {
             Server = "localhost";
