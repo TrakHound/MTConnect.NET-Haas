@@ -31,7 +31,7 @@ namespace MTConnect.Modules
 
         private void DataSourceObservationAdded(object? sender, Input.IObservationInput observation)
         {
-            Agent.AddObservation("Haas_Device", observation);
+            Agent.AddObservation(_configuration.DeviceKey, observation);
         }
 
         protected override void OnStartAfterLoad()
